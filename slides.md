@@ -485,8 +485,6 @@ if let Permutation(p) = t {
 }
 ```
 
-
-
 ---
 
 # Reasons to like Rust #7: Borrowing
@@ -543,7 +541,21 @@ This is an important part of how the compiler enforces memory safety.
     - non-free paper versions also available
 - Scientific Computing in Rust 2026, DAY to DAY, virtual free event
     - [scientificcomputing.rs/2026](https://scientificcomputing.rs/2026)
+    - Talks from previous years on [YouTube](https://www.youtube.com/@ScientificComputinginRust)
 - Ask me!
+
+---
+
+# Feedback and conclusions
+
+- One post it notes, write:
+    - One thing that you learned today
+    - How this session has affected your desire to learn Rust
+    - Any suggestions for next time I run something like this, eg:
+        - anything that was unclear
+        - anything that we didn't cover that you'd like to have seen
+        - anything that we spent too long on
+    - Any suggestions for follow on events if you want to do more Rust
 
 ---
 
