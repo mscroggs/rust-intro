@@ -3,9 +3,9 @@ marp: true
 theme: default
 ---
 
-![bg right fit](assets/qr-code-slides.svg)
+![bg right fit](assets/qr.svg)
 
-# [scnlf.me/2025-12-01-supergit](https://scnlf.me/2025-12-01-supergit)
+# [mscroggs.github.io/rust-intro](https://mscroggs.github.io/rust-intro/)
 
 ---
 
@@ -29,7 +29,7 @@ theme: default
 
 <!--
 paginate: true
-footer: Getting started in Rust
+footer: Getting started in Rust (mscroggs.github.io/rust-intro)
 -->
 
 # Plan for today
