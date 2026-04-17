@@ -13,7 +13,7 @@ for their introduction at [Scientific Computing in Rust]. The slide formatting b
 [supergit] by [@samcunliffe].
 
 If any of this is useful to you for teaching or learning or anything else, please feel encouraged to use it!
-The material in these slides is licensed under [CC-by-nc-sa 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless otherwise specified.
+The material in these slides is licensed under [CC BY-NC-SA 4.0] unless otherwise specified.
 
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" height="31" />
 

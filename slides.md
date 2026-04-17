@@ -9,15 +9,11 @@ theme: default
 
 ---
 
-![bg fit](assets/ucl-banner.png)
-
-![width:7em](assets/ccmi.svg)
+![width:10em](assets/science-ferris-transparent.png)
 
 <br />
 
-# Getting started in Rust
-
-## How and why
+# An introduction to Rust
 
 [@mscroggs]
 
@@ -29,7 +25,7 @@ theme: default
 
 <!--
 paginate: true
-footer: Getting started in Rust (mscroggs.github.io/rust-intro)
+footer: An introduction to Rust (mscroggs.github.io/rust-intro)
 -->
 
 # Plan for today
@@ -38,3 +34,56 @@ footer: Getting started in Rust (mscroggs.github.io/rust-intro)
 1. Rust
 
 ---
+
+# Getting started: cargo init
+
+---
+
+# Basic syntax
+
+- if/else
+- loop
+- while
+- for
+- variables
+- `vec!`
+
+---
+
+# Maths functions
+
+- `f64::sin(3.0)`
+- `angle.sin()`
+
+---
+
+# Activity
+
+Write a function that returns the coordinates of the vertices of a regular
+polygon with an arbitrary number of sides.
+
+---
+
+# Tests: `cargo test`
+
+---
+
+# Traits and structs
+
+---
+
+# Other great Rust features 
+
+- Any code block returns a value
+- `if let`
+- `for 'a`
+- Borrowing
+- `cargo fmt`
+- `cargo clippy`
+
+---
+
+# Where to learn more
+
+- Rust book
+- Scientific Computing in Rust 2026, DAY to DAY, virtual free event [scientificcomputing.rs/2026](https://scientificcomputing.rs/2026)
